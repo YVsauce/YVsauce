@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🏄‍♂️ About Me:
 Hello there! I am Youssef Ait Ouchaour, a dedicated Software Engineer & full stack developer with a strong passion for crafting user-centric and high-performance web applications. Over the past I’ve built expertise in diverse technologies, enabling me to develop end-to-end solutions that address real-world challenges. My journey into web development stems from an innate curiosity about technology, and it has grown into a fulfilling career where I embrace continuous learning and adaptability. I excel in collaborative settings, tackling complex problems with a focus on delivering efficient, scalable, and impactful solutions. Beyond coding, I enjoy exploring emerging technologies, watching good quality movies, and contributing to open-source projects that make a difference. and by the way I'm an avid fan of rock/Rap music.
 
 
@@ -10,7 +10,3 @@ Hello there! I am Youssef Ait Ouchaour, a dedicated Software Engineer & full sta
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ouchaour&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ouchaour&theme=shadow_green&hide_border=false)<br/>
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
