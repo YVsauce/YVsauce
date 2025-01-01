@@ -36,8 +36,4 @@ Driven by curiosity, my journey in tech has been one of continuous learning and 
 ### Styling:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ouchaour&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ouchaour&theme=shadow_green&hide_border=false" alt="GitHub Streak" width="49%">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=ouchaour&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="49%">
